@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mapbox+w3w</string>
+
+    <string name="autosuggest_hint">search for a street or w3w address</string>
+    <string name="latitude_hint">Lat</string>
+    <string name="longitude_hint">Long</string>
+    <string name="button_search">Search</string>
+    <string name="button_reverse">Reverse</string>
+    <string name="title_map">Map</string>
+    <string name="title_navigation">Navigation</string>
+    <string name="question_action">Choose an action</string>
+    <string name="question_nav">Navigate now?</string>
+    <string name="nav_yes">Yes</string>
+    <string name="nav_no">No</string>
+</resources>
